@@ -34,6 +34,7 @@ public class NetworkClient {
         System.out.println("NetworkClient.destroy");
         disconnect();
     }
+
    /* @Override
     public void afterPropertiesSet() throws Exception {
         System.out.println("NetworkClient.afterPropertiesSet");
